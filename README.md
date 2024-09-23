@@ -1,6 +1,7 @@
 # SmartSheetAI
 
 Welcome to **SmartSheetAI**, a powerful tool that leverages AI to analyze, clean, and visualize Excel files with ease. Built using Streamlit and the Gemini API, DataVibe transforms your natural language queries into actionable insights and modifications for your datasets.
+try it here - https://smartsheetai.streamlit.app/
 
 ## Features
 
